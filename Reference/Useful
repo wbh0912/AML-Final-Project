@@ -1,6 +1,7 @@
-VAE MNIST
+VAE
 https://github.com/FelixMohr/Deep-learning-with-Python/blob/master/VAE.ipynb
 https://github.com/yuejin123/VAE_SVHN
+https://arxiv.org/pdf/1512.09300.pdf
 
 Xavier initializer
 https://stackoverflow.com/questions/33640581/how-to-do-xavier-initialization-on-tensorflow
